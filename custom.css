@@ -1,0 +1,60 @@
+#logo-container{
+    text-align:center;
+    margin-bottom: 15px;
+}
+#login-container {
+    margin-top: 15px;
+
+}
+#login-btn {
+    border-color: #a88734 #9c7e31 #846a29;
+}
+
+#form-container {
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+#form-content-container{
+    padding: 20px;
+}
+
+#extra-info{
+    margin-top: 15px;
+}
+
+#subfooter-container p {
+    text-align: center;
+    font-size: 12px;
+    color: #767676;
+}
+
+#subfooter-container p.background{
+    position: relative; 
+    z-index: 1;
+
+}
+
+#sub-footer-container p.background.line {
+    border-top: 2px solid #dfdfdf;
+    content: "";
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 95%;
+    z-index: -1;
+}
+
+#new-account-btn {
+    background: #e7e9ec;
+    border-color: #adb1b8 #a2a6ac #8d9096;
+    color: #000;
+
+}
+
+#footer{
+    font-size: 12px;
+}
